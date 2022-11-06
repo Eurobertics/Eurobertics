@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eurobertics
 - 🏢I  do things in coding and project managing
 - 💻 In My spare time I mostly working on https://github.com/eurobertics/nebucord a Discord PHP API 💾
-- 🛰 You reach me at best by Discord (Tag: Eurobertics#7777) or by mail (brobertz.net@gmail.com)
+- 🛰 You reach me at best by Discord (Tag: Eurobertics#7777)
 - Just ask, there is nothing much more to say about Me. 🔮
