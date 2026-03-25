@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Eurobertics
+- 👋 Hi, I’m Bernd (@Eurobertics)
 - 🏢I  do things in coding and project managing
-- 💻 In My spare time I mostly working on https://github.com/eurobertics/nebucord a Discord PHP API 💾
-- 🛰 You reach me at best by Discord (Tag: Eurobertics#7777)
+- 💻 In My spare time I mostly working on a neural AI network for my home 💾
+- 🛰 You reach me at best by Matrix (Identity: [@bernd:brobertz.net](https://matrix.to/#/@bernd:brobertz.net))
 - Just ask, there is nothing much more to say about Me. 🔮
